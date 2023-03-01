@@ -1,0 +1,7 @@
+test ediliyor
+test basladdi
+test devam ediyor
+test bitti
+
+
+islem bitti
